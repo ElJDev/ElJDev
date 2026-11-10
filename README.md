@@ -20,5 +20,3 @@ Right now I'm working on **[ElJBot](https://github.com/ElJDev/ElJBot)**: A simpl
 Python, mcfunction, Batchfile.
 
 ---
-
-<sub>8 public repositories · 0 stars · 83 contributions in the last year · Case File by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
